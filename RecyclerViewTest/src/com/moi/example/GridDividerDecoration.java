@@ -82,4 +82,6 @@ public class GridDividerDecoration extends RecyclerView.ItemDecoration {
         //We can supply forced insets for each item view here in the Rect
         outRect.set(mInsets, mInsets, mInsets, mInsets);
     }
+
+
 }
